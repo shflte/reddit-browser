@@ -7,8 +7,8 @@ Since I use reddit every day, it would be nice if there is a browser that only s
 - Can translate the content into Chinese and Japanese.
 ## Deploy
 - This project involves the following packages:
-- praw
-- re
-- googletrans
-- requests
-- tkinter
+  - praw
+  - re
+  - googletrans
+  - requests
+  - tkinter
